@@ -1,0 +1,10 @@
+.gradient-one{
+    background: linear-gradient(180deg, #000000 0%, #200D42 36.21%, #4F21A1 68.68%, #A46EDB 86.54%);
+
+}
+
+.gradient-two{
+    background: radial-gradient(51.38% 51.38% at 50% 50%, #000000 82.2%, #9560EB 100%);
+
+}
+

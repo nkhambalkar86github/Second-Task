@@ -1,0 +1,8 @@
+.gradient-FAQ{
+    background: linear-gradient(180deg, rgba(85,15,166,1) 30%, rgb(36, 14, 71) 60%, rgb(2, 0, 5) 95%);
+
+}
+
+.card2{
+    background:linear-gradient(180deg, rgba(85,15,166,1) 70%, rgb(36, 14, 71) 100%)
+}
