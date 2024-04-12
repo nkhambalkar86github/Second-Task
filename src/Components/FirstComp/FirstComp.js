@@ -3,7 +3,7 @@ const FirstComp = () => {
     return (
 
         <>
-            <div className="container gradient-one">
+            <div className="container gradient-one"style={{position:'relative'}}>
                 <div className="row">
                     <div className="col mb-4 text-center pt-4">
 
@@ -12,10 +12,10 @@ const FirstComp = () => {
                         </div>
 
                         <div>
-                            <img src='./cursor.png' alt='...' style={{ width: '18%', position: 'absolute', top: '485px', left: '70px' }}></img>
+                            <img className='img-fluid' src='./cursor.png' alt='...' style={{ width: '18%', position: 'absolute', top: '335px', left: '60px' }}></img>
                             <h1 className='text-md-left' style={{ color: 'lightgrey', fontSize: '165px', fontWeight: 'bold' }}>One Task<br />
                                 at a Time</h1>
-                            <img src='./message.png' alt='...' style={{ width: '18%', position: 'absolute', top: '380px', right: '80px' }}></img>
+                            <img className='img-fluid' src='./message.png' alt='...' style={{ width: '18%', position: 'absolute', top: '240px', right: '60px' }}></img>
 
                         </div>
                         <div className='m-4'>
