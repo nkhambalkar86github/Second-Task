@@ -8,7 +8,7 @@ const FirstComp = () => {
                     <div className="col mb-4 text-center pt-4">
 
                         <div className='p-4 '>
-                            <button className='rounded-3' style={{ backgroundColor: 'black', color: '#222222', width: '250px', height: '35px', border: '1px solid', padding: '15px, 20px, 15px, 20px' }}>Version 2.0 is here <span style={{ color: '#FFFFFF' }}>Read more</span><img src='./IconsWhite.png' alt='...'></img></button>
+                            <button className='rounded-3' style={{ backgroundColor: 'black', color: 'grey', width: '250px', height: '35px', border: '1px solid', padding: '15px, 20px, 15px, 20px' }}>Version 2.0 is here <span style={{ color: '#FFFFFF' }}>Read more</span><img src='./IconsWhite.png' alt='...'></img></button>
                         </div>
 
                         <div>
