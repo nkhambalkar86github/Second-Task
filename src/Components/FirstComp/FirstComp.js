@@ -12,10 +12,10 @@ const FirstComp = () => {
                         </div>
 
                         <div>
-                            <img className='img-fluid' src='./cursor.png' alt='...' style={{ width: '18%', position: 'absolute', top: '335px', left: '60px' }}></img>
-                            <h1 className='text-md-left' style={{ color: 'lightgrey', fontSize: '165px', fontWeight: 'bold' }}>One Task<br />
+                            <img className='img-fluid d-none d-md-block' src='./cursor.png' alt='...' style={{ width: '18%', position: 'absolute', top: '335px', left: '60px' }}></img>
+                            <h1 className='' style={{ color: 'lightgrey', fontSize: '160px', fontWeight: 'bold' }}>One Task<br />
                                 at a Time</h1>
-                            <img className='img-fluid' src='./message.png' alt='...' style={{ width: '18%', position: 'absolute', top: '240px', right: '60px' }}></img>
+                            <img className='img-fluid d-none d-md-block' src='./message.png' alt='...' style={{ width: '18%', position: 'absolute', top: '240px', right: '60px' }}></img>
 
                         </div>
                         <div className='m-4'>

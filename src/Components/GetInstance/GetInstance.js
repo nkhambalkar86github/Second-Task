@@ -19,7 +19,7 @@ const GetInstance = () => {
                             <h1 className="m-4" style={{ color: '#FFFFFF' }}>Get instant access</h1>
                             <p className="mb-4" style={{ color: '#FFFFFF' }}>Celebrate the joy of accomplishment with an app designed<br /> to track your progress and motivate your efforts.</p>
                             <input className=" me-3 rounded-2 mb-2" type="search" placeholder="name@gmail.com"style={{width:'250px',height:'39px',backgroundColor:'#363738',border:'none'}} />
-                            <button className='rounded-3' style={{width:'110px',height:'39px',border:'none',padding:'15px, 20px, 15px, 20px'}}>Get for free</button>
+                            <button className='btn-lg btn-responsive rounded-3' style={{height:'39px',border:'none',padding:'15px, 20px, 15px, 20px'}}>Get for free</button>
                         </div>
 
                         <div>

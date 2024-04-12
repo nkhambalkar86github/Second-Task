@@ -21,7 +21,7 @@ const FAQComp = () => {
                         </div>
 
                         <div className="card  card2" style={{ width: '50%', background: 'border-box ', border: 'none' }}>
-                            <div className="card-body " style={{ borderBottom: "1px solid #FFFFFF", padding: '30px 0 30px 0', border: '0px 0px 1px 0px' }}>
+                            <div className="card-body " style={{ borderBottom: "1px solid #FFFFFF ", padding: '30px 0 30px 0', border: '0px 0px 1px 0px' }}>
                                 <h6 className="card-title " style={{ textAlign: "left", color: '#FFFFFF' }}> How does the pricing work for teams    <img style={{ float: 'right', paddingRight: '-1%' }} alt="" src="/Vector3.png" /></h6>
                             </div>
                         </div>
