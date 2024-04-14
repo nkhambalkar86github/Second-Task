@@ -6,7 +6,7 @@ const FirstComp = () => {
             <div className="container text-center gradient-one " style={{ position: 'relative' }}>
 
                        <div className='p-4 'style={{}}>
-                            <button className='rounded-3 fontsize ' style={{ fontFamily:"Inter",backgroundColor: 'black', color: 'grey', width: '25%',  border: '1px solid', padding: '15px, 20px, 15px, 20px' }}>Version 2.0 is here <span style={{ color: '#FFFFFF' }}>Read more</span><img src='./IconsWhite.png' alt='...'></img></button>
+                       <button className='rounded-3 fontsize p-2 ' style={{ fontFamily:"Inter",backgroundColor: 'black', color: 'grey', width: '25%',height:'auto' , border: '1px solid #222222' }}>Version 2.0 is here <span style={{ color: '#FFFFFF' }}>Read more</span><img src='./IconsWhite.png' alt='...'></img></button>
                         </div>
                 <div className="row ">
                     <div className="col-lg-12  mb-4 text-center pt-4 ">                    
