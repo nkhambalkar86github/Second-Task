@@ -4,8 +4,8 @@ const Footer = () => {
         <div className="container p-2" style={{ backgroundColor: 'black',borderTop:'1px solid'}}>
 
             <div className="row ">
-                <div className="col-lg-6 col-md-5 col-sm-12  "style={{textAlign:'center'}}>
-                    <p className="pl-3" style={{color:"#808080"}}>@ 2024 Your Company, Inc. All rights reserved</p>
+                <div className="col-lg-6 col-md-5 col-sm-12  " style={{textAlign:'center'}}>
+                    <p className="pl-3" style={{fontFamily:"DM Sans",color:"#808080"}}>@ 2024 Your Company, Inc. All rights reserved</p>
 
                 </div>
 

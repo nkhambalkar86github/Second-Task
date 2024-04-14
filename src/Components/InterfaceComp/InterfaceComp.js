@@ -5,12 +5,12 @@ const InterfaceComp = () => {
     return (
         <div className='container p-4 gradient-interface' >
           
-          <div className="row">
+          <div className="row mb-4">
             <div className="col text-center">
 
                 <div className="p-4 ">
-                    <h1 style={{ color: "#FFFFFF" ,fontStyle:'DM Sans'}}>Intuitive interface</h1>
-                    <p style={{ color: "#FFFFFF"}}>Celebrate the joy of accomplishment with an app <br/>designed to track your progress, motivate your efforts,<br/> and celebrate your successes, one task at a time.</p>
+                    <h1 className='mb-4' style={{fontFamily:"DM Sans",fontWeight:'bold', color: "#FFFFFF" }}>Intuitive interface</h1>
+                    <p style={{fontFamily:"Inter", color: "#FFFFFF"}}>Celebrate the joy of accomplishment with an app <br/>designed to track your progress, motivate your efforts,<br/> and celebrate your successes, one task at a time.</p>
                 </div>
 
                 <div>
@@ -18,7 +18,8 @@ const InterfaceComp = () => {
                 </div>
 
            </div>           
-          </div>      
+          </div>       
+             
 
         </div>
     )

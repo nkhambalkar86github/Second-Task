@@ -6,7 +6,7 @@ const Header=()=>{
 
             <div className='row '>
                <div className='col 'style={{textAlign:'center'}}>
-               <p  className='mt-2'>This page is included in a free SaaS Website Kit. &nbsp;&nbsp;<span>View the complete Kit <img src='./Icons.png' alt='...'></img></span></p>
+               <p  className='mt-2'style={{fontFamily:"DM Sans"}}>This page is included in a free SaaS Website Kit. &nbsp;&nbsp;<span>View the complete Kit <img src='./Icons.png' alt='...'></img></span></p>
                </div>
             </div>
           
